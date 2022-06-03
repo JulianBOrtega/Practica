@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Espada_de_madera",
+        "puntosDeAtaque": 3,
+        "alcance": 1,
+        "precio": 10,
+        "icono":"†",
+        "descripcion": "Una simple espada de madera tallada a mano."
+    },
+    {
+        "nombre": "Espada_de_piedra",
+        "puntosDeAtaque": 5,
+        "alcance": 2,
+        "precio": 35,
+        "icono":"†",
+        "descripcion": "Aah... Una espada de piedra. Muy practico para causar un buen daño."
+    },
+    {
+        "nombre": "Espada_de_hierro",
+        "puntosDeAtaque": 7,
+        "alcance": 3,
+        "precio": 100,
+        "icono":"†",
+        "descripcion": "Filosa. Endeble y lista para ser blandida por un heroe en busca de aventuras."
+    },
+    {
+        "nombre": "Daga_de_madera",
+        "puntosDeAtaque": 1,
+        "alcance": 1,
+        "precio": 5,
+        "icono":"†",
+        "descripcion": "Una simple Daga de madera."
+    },
+    {
+        "nombre": "Daga_de_piedra",
+        "puntosDeAtaque": 3,
+        "alcance": 1,
+        "precio": 23,
+        "icono":"†",
+        "descripcion": "Hmm... Parece tener filo. Cuidado que puedes cortarte."
+    },
+    {
+        "nombre": "Daga_de_hierro",
+        "puntosDeAtaque": 5,
+        "alcance": 2,
+        "precio": 58,
+        "icono":"†",
+        "descripcion": "Un arma pequeña dificil de manejar, por su tan corto alcance. Perfecta para asesinos de gran habilidad."
+    },
+    {
+        "nombre": "Garras",
+        "puntosDeAtaque": 1,
+        "alcance": 1,
+        "precio": 23,
+        "icono":"†",
+        "descripcion": "Garras de un animal muy pequeño... (basura)"
+    },
+    {
+        "nombre": "Garras_afiladas",
+        "puntosDeAtaque": 4,
+        "alcance": 2,
+        "precio": 23,
+        "icono":"†",
+        "descripcion": "Garras muy afiladas de un animal mortifero. (basura)"
+    },
+    {
+        "nombre": "Zarpas_de_oso",
+        "puntosDeAtaque": 8,
+        "alcance": 1,
+        "precio": 43,
+        "icono":"†",
+        "descripcion": "Garras de un animal moustroso y muy temido por los animales del bosque. (basura)"
+    },
+    {
+        "nombre": "Colmillos_de_muercilago",
+        "puntosDeAtaque": 2,
+        "alcance": 1,
+        "precio": 23,
+        "icono":"†",
+        "descripcion": "Dientes de un animal nocturno, adicto a la sangre. (basura)"
+    }
+]
