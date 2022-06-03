@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Espada de madera",
+        "puntosDeAtaque": 3,
+        "alcance": 1,
+        "precio": 10,
+        "descripcion": "Una simple espada de madera tallada a mano."
+    },
+    {
+        "nombre": "Espada de piedra",
+        "puntosDeAtaque": 5,
+        "alcance": 1,
+        "precio": 35,
+        "descripcion": "Aah... Una espada de piedra. Muy practico para causar un buen daño."
+    },
+    {
+        "nombre": "Espada de hierro",
+        "puntosDeAtaque": 7,
+        "alcance": 1,
+        "precio": 100,
+        "descripcion": "Filosa. Endeble y lista para ser blandida por un heroe en busca de aventuras."
+    },
+    {
+        "nombre": "Daga de madera",
+        "puntosDeAtaque": 1,
+        "alcance": 1,
+        "precio": 5,
+        "descripcion": "Una simple Daga de madera."
+    },
+    {
+        "nombre": "Daga de piedra",
+        "puntosDeAtaque": 3,
+        "alcance": 1,
+        "precio": 23,
+        "descripcion": "Hmm... Parece tener filo. Cuidado que puedes cortarte."
+    },
+    {
+        "nombre": "Daga de hierro",
+        "puntosDeAtaque": 5,
+        "alcance": 1,
+        "precio": 58,
+        "descripcion": "Un arma pequeña dificil de manejar, por su tan corto alcance. Perfecta para asesinos de gran habilidad."
+    }
+]
