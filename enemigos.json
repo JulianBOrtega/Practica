@@ -1,0 +1,29 @@
+[{
+    "nombre":"Conejo_rabioso",
+    "hp": 5,
+    "arma":"Garras",
+    "loot": 15,
+    "posicion":[0,0]
+},
+{
+    "nombre":"Lobo_blnaco",
+    "hp":15,
+    "arma":"Garras_afiladas",
+    "loot":35,
+    "posicion":[0,0]
+},
+{
+    "nombre":"Oso_temible",
+    "hp":26,
+    "arma":"Zarpas_de_oso",
+    "loot":45,
+    "posicion":[0,0]
+},
+{
+    "nombre":"Murcielago",
+    "hp":8,
+    "arma":"Colmillos_de_muercilago",
+    "loot":14,
+    "posicion":[0,0]
+}
+]

@@ -9,14 +9,14 @@
     {
         "nombre": "Espada_de_piedra",
         "puntosDeAtaque": 5,
-        "alcance": 1,
+        "alcance": 2,
         "precio": 35,
         "descripcion": "Aah... Una espada de piedra. Muy practico para causar un buen daño."
     },
     {
         "nombre": "Espada_de_hierro",
         "puntosDeAtaque": 7,
-        "alcance": 1,
+        "alcance": 3,
         "precio": 100,
         "descripcion": "Filosa. Endeble y lista para ser blandida por un heroe en busca de aventuras."
     },
@@ -37,8 +37,36 @@
     {
         "nombre": "Daga_de_hierro",
         "puntosDeAtaque": 5,
-        "alcance": 1,
+        "alcance": 2,
         "precio": 58,
         "descripcion": "Un arma pequeña dificil de manejar, por su tan corto alcance. Perfecta para asesinos de gran habilidad."
+    },
+    {
+        "nombre": "Garras",
+        "puntosDeAtaque": 1,
+        "alcance": 1,
+        "precio": 23,
+        "descripcion": "Garras de un animal muy pequeño... (basura)"
+    },
+    {
+        "nombre": "Garras_afiladas",
+        "puntosDeAtaque": 4,
+        "alcance": 2,
+        "precio": 23,
+        "descripcion": "Garras muy afiladas de un animal mortifero. (basura)"
+    },
+    {
+        "nombre": "Zarpas_de_oso",
+        "puntosDeAtaque": 8,
+        "alcance": 1,
+        "precio": 43,
+        "descripcion": "Garras de un animal moustroso y muy temido por los animales del bosque. (basura)"
+    },
+    {
+        "nombre": "Colmillos_de_muercilago",
+        "puntosDeAtaque": 2,
+        "alcance": 1,
+        "precio": 23,
+        "descripcion": "Dientes de un animal nocturno, adicto a la sangre. (basura)"
     }
 ]
