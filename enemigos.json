@@ -3,7 +3,7 @@
     "hp": 5,
     "arma":"Garras",
     "loot": 15,
-    "icono":"☻",
+    "icono":"✠",
     "posicion":[0,0]
 },
 {
@@ -11,7 +11,7 @@
     "hp":15,
     "arma":"Garras_afiladas",
     "loot":35,
-    "icono":"☻",
+    "icono":"✚",
     "posicion":[0,0]
 },
 {
@@ -19,15 +19,15 @@
     "hp":26,
     "arma":"Zarpas_de_oso",
     "loot":45,
-    "icono":"☻",
+    "icono":"☭",
     "posicion":[0,0]
 },
 {
     "nombre":"Murcielago",
     "hp":8,
-    "arma":"Colmillos_de_muercilago",
+    "arma":"Colmillos_de_muercielago",
     "loot":14,
-    "icono":"☻",
+    "icono":"✪",
     "posicion":[0,0]
 }
 ]
