@@ -1,0 +1,35 @@
+# Enemigos en el mapa:
+
+
+Oso temible: ☭;
+
+Conejo rabioso: ✠;
+
+Lobo blanco: ✚;
+
+Muricilago: ✪;
+
+
+# Armas en el mapa:
+
+Espada de madera:†;
+
+Espada de piedra:☨;
+
+Espada de hierro:☧;
+
+Daga de madera:¢;
+
+Daga de piedra:€;
+
+Daga de hierro:£;
+
+# Drop de moustros:
+
+Garras:✦;
+
+Grras afiladas:✫;
+
+Zarpa de oso:✯;
+
+Colmillos de murcielago:★;
