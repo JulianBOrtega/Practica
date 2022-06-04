@@ -1,11 +1,38 @@
 console.clear();
 const fs = require("fs");
-const nivel = require("./manager.js");
-const armas = JSON.parse(fs.readFileSync("./armas.json", "utf-8"));
-const enemigos = JSON.parse(fs.readFileSync("./enemigos.json", "utf-8"));
+const partida = JSON.parse(fs.readFileSync("./partida.json", "utf-8"));
 
+let nivel = require("./manager.js");
 nivel.generarNivel();
-nivel.mapa.editarCelda([0, 2], "♚");
-nivel.agregarEnemigo(enemigos[0], [5, 2]);
+
+if(partida && partida != [] && partida != "") //* Cargar partida si existe
+{
+    nivel.mapa.celdas = partida.celdas;
+    nivel.contenido = partida.contenido;
+    nivel.iconoJugador = partida.iconoJugador;   
+}
+
+//////////////////////////////////////////////////////
+
+
+
 
 console.log(nivel.mapa.celdas);
+
+
+
+
+//////////////////////////////////////////////////////
+
+//! Guarda el estado de la partida
+function PartidaGuardada(nivel)
+{
+    this.celdas = nivel.mapa.celdas;
+    this.contenido = nivel.contenido;
+    this.iconoJugador = nivel.iconoJugador;
+}
+
+fs.writeFileSync("./partida.json", JSON.stringify(new PartidaGuardada(nivel)), "utf-8");
+
+//! Borra la partida
+//fs.writeFileSync("./partida.json", "[]", "utf-8");

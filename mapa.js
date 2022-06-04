@@ -8,7 +8,7 @@ function obtenerIndex(posicion)
     return 145 + filaMiddle.length * posicion[0] + 28.4 * tamanio[0] * posicion[1];
 }
 
-const mapa = 
+const mapa =
 {
     celdas: "",
     generarCeldas: function()
